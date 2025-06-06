@@ -1,11 +1,15 @@
-**Om Kumar's Portfolio**
+**My Portfolio**
+
 **Overview:**
+
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and contact information as a web developer, designer, and problem solver. Built with modern web technologies, it features a responsive design, dark/light theme toggle, and an interactive chat feature to engage visitors.
 
-**Website**
+**Website:**
 Visit the live site: https://omportfolio-x.web.app/
-**Features**
+
+
+**Features:**
 
 Responsive Design: Adapts seamlessly to desktop, tablet, and mobile devices.
 Theme Toggle: Switch between light and dark modes, with preferences saved in local storage.
@@ -14,14 +18,14 @@ Interactive Chat: Ask questions about me via a chat bubble, with a typing indica
 Project Showcase: Displays key projects like ShopSphere, TaskSync, and BlogVibe with hover effects.
 Contact Form: Simple form to send messages (with basic validation via JavaScript).
 
-**Technologies Used**
+**Technologies Used:**
 
 HTML5: Structure of the webpage.
 CSS3 & Tailwind CSS: Styling with custom variables, animations, and responsive layouts via Tailwind CDN (v2.2.19).
 JavaScript: Handles theme toggle, smooth scrolling, contact form submission, and chat functionality.
 Firebase: Initialized for analytics (configuration included, replace API_KEY with your own).
 
-**Setup Instructions**
+**Setup Instructions:**
 
 Clone the Repository:git clone https://github.com/your-username/om-kumar-portfolio.git
 
@@ -42,7 +46,7 @@ Note: Without a valid API key, the chat will display a fallback error message.
 
 
 
-**File Structure**
+**File Structure:**
 
 index.html: Main file containing the portfolio structure, styles, and scripts.
 External assets:
@@ -52,21 +56,21 @@ Firebase SDK via CDN for analytics.
 
 
 
-**Usage**
+**Usage:**
 
 Navigation: Click links in the fixed navbar to jump to sections.
 Theme Toggle: Click the sun/moon icon to switch themes.
 Chat: Click the "Ask Anything About Me" bubble, type a message, and press Enter or click Send.
 Contact: Fill out the form and click "Send Message" for a simple alert-based submission.
 
-**Customization**
+**Customization:**
 
 Update the profile image in the About and Chat sections with your own (replace i.ibb.co URLs).
 Modify project details (images, titles, descriptions, links) in the Projects section.
 Adjust colors and styles in the :root and .dark CSS variables.
 Enhance the chat response logic by refining the prompt in the sendMessage() function.
 
-**Notes**
+**Notes:**
 
 API Keys: Ensure Firebase and Gemini API keys are secure and not exposed in public repositories.
 Images: External image URLs are used; host your own for better reliability.
