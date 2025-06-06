@@ -73,7 +73,12 @@ Images: External image URLs are used; host your own for better reliability.
 Browser Compatibility: Tested on modern browsers (Chrome, Firefox, Edge).
 
 **License**
+
+
 **© 2025 Om Kumar. All rights reserved.**
+
+
 **Contact**
-Feel free to reach out via the contact form or connect with me on 
-GitHub: iamomm-hack
+
+
+Feel free to reach out via the contact form or connect with me on GitHub: iamomm-hack
